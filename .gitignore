@@ -1,5 +1,4 @@
-obj
-lst
+#gitingnore file
 *.o
 *.d
 *.crf
