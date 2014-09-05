@@ -1,0 +1,7 @@
+obj
+lst
+*.o
+*.d
+*.crf
+*.dep
+*.bak
